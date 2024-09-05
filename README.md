@@ -62,7 +62,7 @@ return 0;
 }
 ~~~
 ## OUTPUT:
-![CC](https://github.com/Aashika77/Cryptography---19CS412-classical-techqniques/assets/119291088/743b5c20-3e86-474a-8ee9-1cc8b5f253df)
+![ceaser](https://github.com/user-attachments/assets/bbb9a307-dfa8-413f-9085-3670462d5e2f)
 
 ## RESULT:
 The program is executed successfully
@@ -219,7 +219,9 @@ return 0;
 }
 ~~~
 ## OUTPUT:
-![PL](https://github.com/Aashika77/Cryptography---19CS412-classical-techqniques/assets/119291088/b33d44dd-0344-42c7-8df0-e276922d10da)
+![WhatsApp Image 2024-09-05 at 09 11 10_f83406e1](https://github.com/user-attachments/assets/662a9b41-8cda-4781-a813-a38eab02e441)
+
+
 
 ## RESULT:
 The program is executed successfully
@@ -296,7 +298,8 @@ return 0;
 }
 ~~~
 ## OUTPUT:
-![HILL](https://github.com/Aashika77/Cryptography---19CS412-classical-techqniques/assets/119291088/e6178b5f-4f58-47ae-b734-ab5a05265686)
+![WhatsApp Image 2024-09-05 at 09 01 29_ba3f4211](https://github.com/user-attachments/assets/493bef84-36ad-46d9-9484-6ef8d6e94911)
+
 
 ## RESULT:
 The program is executed successfully
@@ -391,7 +394,8 @@ return 0;
 }
 ~~~
 ## OUTPUT:
-![VEN](https://github.com/Aashika77/Cryptography---19CS412-classical-techqniques/assets/119291088/e8a3cb39-7cf1-4052-aaf3-26799646e2b4)
+![WhatsApp Image 2024-09-05 at 09 18 06_25dfd834](https://github.com/user-attachments/assets/b2aaa026-96be-47b6-a518-4272e0a2061a)
+
 
 ## RESULT:
 The program is executed successfully
@@ -466,7 +470,8 @@ return 0;
 }
 ~~~
 ## OUTPUT:
-![RAIL](https://github.com/Aashika77/Cryptography---19CS412-classical-techqniques/assets/119291088/05015057-6a2b-4e44-a437-503f5c21fdff)
+![WhatsApp Image 2024-09-05 at 09 21 59_a270b3bb](https://github.com/user-attachments/assets/92713ff1-8b05-47b9-b2a4-90e2b7ec7aa2)
+
 
 
 ## RESULT:
