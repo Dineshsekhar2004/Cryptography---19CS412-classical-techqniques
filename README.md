@@ -23,7 +23,7 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
-```
+```C
 #include<stdio.h>
 #include <string.h>
 #include<conio.h>
