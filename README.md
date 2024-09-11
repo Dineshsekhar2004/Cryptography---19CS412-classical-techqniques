@@ -23,7 +23,7 @@ Implementation using C or pyhton code
 Testing algorithm with different key values. 
 
 ## PROGRAM:
-~~~
+```
 #include<stdio.h>
 #include <string.h>
 #include<conio.h>
@@ -60,7 +60,7 @@ printf("%c",plain[i]);
 }
 return 0;
 }
-~~~
+```
 ## OUTPUT:
 ![ceaser](https://github.com/user-attachments/assets/bbb9a307-dfa8-413f-9085-3670462d5e2f)
 
